@@ -40,7 +40,10 @@ a {
 a:hover{
   color: #EAF6F6;
 }
-
+b{
+  font-weight: bold;
+  text-decoration:underline;
+}
 ul li {
   list-style: none;
 }
